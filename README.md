@@ -6,4 +6,4 @@ And the sole aim of business is to make profit.
 It is also important to understand the KPIs (Key performance indicators) used in measuring a business. 
 Before embarking on data analyzing work, it is important to understand the business problem you intend to profer solution(s) to and then your target audience.
 Some business problems are solved with only diagnostic and descriptive analysis while others will require a predictive analysis. 
-For the purpose of this work we won't focusing on predictive analysis
+For the purpose of this work we won't focusing on predictive analysis but more on descriptive analysis as we will be measuring KPIs and metrics
